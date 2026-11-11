@@ -1,0 +1,49 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+    Save up Money
+
+2. What real-world problem will your program address or help to solve?
+    The program will calculate the user's growth rate if they save an amount X per month
+    for three months, six months, nine months, and one year, assuming that their bank
+    provides a growth rate of 7.3%. Additionally, if the user decides to freeze
+    a certain X% of their balance, the growth rate would increase to 13%.
+
+3. What will you learn from developing this program?
+    How can create a efficient program to save money actually and 
+    make plans to save money in easily way
+
+4. What Python modules will your program use?
+    I will use math, date time and pytest
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. List the names of functions you will need?
+    def main()
+    def growth_rate
+    def freeze_growth_rate
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. List the names of the test functions you will write.
+
+def_test_grow_rate
+def_test_freeze_growth_rate

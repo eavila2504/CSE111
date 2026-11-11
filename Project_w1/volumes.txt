@@ -1,0 +1,13 @@
+<class 'object'>
+<class 'object'>
+<class 'object'>
+<class 'object'>
+<class 'object'>
+<class 'object'>
+<class 'object'>
+2026-01-10, 205.0, 60.0, 15.0,  39.92 liters
+2026-01-10, 205.0, 60.0, 15.0,  39.92 liters
+2026-01-10, 205.0, 60.0, 15.0,  39.92 liters
+2026-01-10, 205.0, 60.0, 15.0,  39.92 liters
+2026-01-10, 185.0, 50.0, 14.0,  24.09 liters
+2026-01-10, 185.0, 50.0, 14.0,  24.09 liters

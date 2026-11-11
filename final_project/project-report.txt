@@ -1,0 +1,40 @@
+Student Project Report
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+            
+            Time Spent
+    Date      (Hours)    Description of Work 
+----------  -----------  ----------------------
+2026-02-10       2       Searching and reading articles to make the formula and get the interest annual
+2026-02-11       2       Design and writing different diagrams and code to prove the best way to make the code
+2026_02-12      1.5      Writing the main code to get the output I was looking for and the results
+2026-02-13      1.5      Design the experimental diagram and code for pytest code and the values to test properly the code 
+2026-02-13      .5       Test the pytest code and check the program to verify all is working properly
+2026-02-16       2       Write the final code for project that include tkinter module
+2026-02-16       2       Write the final pytest code
+2026-02-16      .5       Make changes according the output from the pytest module to make sure everything is running ok.
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
